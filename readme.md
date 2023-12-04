@@ -1,14 +1,23 @@
 直接python main.py即可运行
 
-需要按照如下格式构造在当前目录下构造一个文件夹
--data
-    -train_scene (dir)
-        -1(image)
-        -2
-        -3
-        ...
-    -train_ped (dir)
-        -1(image)
+需要按照如下格式构造在当前目录下构造一个文件夹。
+
+-data  
+
+    -train_scene (dir)  
+    
+        -1(image)  
+        
+        -2  
+        
+        -3  
+        
+        ...  
+        
+    -train_ped (dir)  
+    
+        -1(image)  
+        
         -2
         -3
         ...
