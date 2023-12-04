@@ -37,4 +37,6 @@
 目前的框架是
 
 场景图像-> resnet（50或者101或者152）-> vector[1024]
+
+
 行人图像-> resnet（50或者101或者152）-> vector[1024]  -> 两个vector的concat -> vector[2048] -> output
